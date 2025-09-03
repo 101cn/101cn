@@ -1,16 +1,20 @@
-## Hi there 👋
+# Chandrahas Nalabotu - Mechanical Engineer portifolio
 
-<!--
-**101cn/101cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My project respository, showcasing projects that I have done / participated in, including a simple breakdown on what it was about and how it was achieved
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Project Name]
+**Tech Stack:** React, Node.js, MongoDB  
+**Description:** Brief description of what the project does and the problem it solves.  
+**Links:** [Live Demo](link) | [Repository](link)
+
+### [Project Name]
+**Tech Stack:** Python, Django, PostgreSQL  
+**Description:** Brief description of what the project does and the problem it solves.  
+**Links:** [Live Demo](link) | [Repository](link)
+
+### [Project Name]
+**Tech Stack:** Java, Spring Boot, MySQL  
+**Description:** Brief description of what the project does and the problem it solves.  
+**Links:** [Live Demo](link) | [Repository](link)
