@@ -1,4 +1,4 @@
-# Chandrahas Nalabotu - Mechanical Engineer portifolio
+# Chandrahas Nalabotu - Mechanical Engineer portfolio
 
 My project respository, showcasing projects that I have done / participated in, including a simple breakdown on what it was about and how it was achieved
 
