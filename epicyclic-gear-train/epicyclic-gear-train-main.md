@@ -18,8 +18,7 @@ The main board that coats the whole gear train (in red) is fixed in place, whils
 </tr>
 </table>
 
-Looking closer, the standard bolts and washers can be seen, to fasten each planetary gear in place. The threads are designed for easier fits, whilst retaining enough tolerance for an easy assembly
-
+Looking closer, the standard bolts and washers can be seen, to fasten each planetary gear in place. The threads are designed for easier fits, whilst retaining enough tolerance for an easy assembly <br>
 Bearings are put into place to increase efficiency, via reduction of frictional force and also reducing wear and strain on each plantery gear
 
 <table>
@@ -30,6 +29,6 @@ Bearings are put into place to increase efficiency, via reduction of frictional 
 </tr>
 </table>
 
-Anti rotation key setup shows 1 of 3 methods designed to initiate rotation from the spur gear to the shaft hub
-Grub screw relies on pure frictional force by driving the screw through the threads and making it contact with the shaft hub
+Anti rotation key setup shows 1 of 3 methods designed to initiate rotation from the spur gear to the shaft hub <br>
+Grub screw relies on pure frictional force by driving the screw through the threads and making it contact with the shaft hub <br>
 Dowel pin acts like a wedge between the shaft hub and the gear, causing the gear to sping with the shaft hub
