@@ -1,6 +1,6 @@
 # Epicyclic gear train
 
-This project was to model individual parts, and using standard bolts, fasteners, washers and spacers to create an epicylic gear train, with a sun gear in the center with plantery gears around it, which are held in place by the main body
+This project was to model individual parts, and using standard bolts, fasteners, washers and spacers to create an epicylic gear train, with a sun gear in the center and plantery gears around it, which are held in place by the main body
 
 <table>
 <tr>
