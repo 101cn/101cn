@@ -2,8 +2,12 @@
 
 This project was to model individual parts, and using standard bolts, fasteners, washers and spacers to create an epicylic gear train, with a sun gear in the center with plantery gears around it, which are held in place by the main body
 
-<img src="exploded-view-epicyclic-gear-train.png" alt="exploded view" width="48%" style="display:inline-block; margin-right:4%;">
-<img src="epicyclic-gear-train.png" alt="assembled view" width="25%" style="display:inline-block;">
+<table>
+<tr>
+<td><img src="exploded-view-epicyclic-gear-train.png" alt="exploded view" width="400"></td>
+<td><img src="epicyclic-gear-train.png" alt="assembled view" width="320"></td>
+</tr>
+</table>
 
 The main board that coats the whole gear train (in red) is fixed in place, whilst everything else is mated in position, therefore the structure can be used for simulation purposes. The gear trains can freely spin in place, and affect the other planetary gears
 
