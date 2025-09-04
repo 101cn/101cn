@@ -1,20 +1,9 @@
 # Chandrahas Nalabotu - Mechanical Engineering portfolio
 
-My project respository, showcasing projects that I have done / participated in, including a simple breakdown on what it was about and how it was achieved
+My project respository, showcasing projects that I have done / participated in, including a simple breakdown on what it was about and how it was achieved with links for more info about that specific project
 
 ## Projects
 
-### [Project Name]
-**Tech Stack:** React, Node.js, MongoDB  
-**Description:** Brief description of what the project does and the problem it solves.  
-**Links:** [Live Demo](link) | [Repository](link)
-
-### [Project Name]
-**Tech Stack:** Python, Django, PostgreSQL  
-**Description:** Brief description of what the project does and the problem it solves.  
-**Links:** [Live Demo](link) | [Repository](link)
-
-### [Project Name]
-**Tech Stack:** Java, Spring Boot, MySQL  
-**Description:** Brief description of what the project does and the problem it solves.  
-**Links:** [Live Demo](link) | [Repository](link)
+### Epicyclic gear train modelling (Solidworks) 
+**Description:** A gear train optimised for efficient power transmission whilst retaining torque multiplication
+**More info:** [Click for more info](epicyclic-gear-train/epicyclic-gear-train-main.md)
