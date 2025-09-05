@@ -10,4 +10,4 @@ My project respository, showcasing projects that I have done / participated in, 
 
 ### Single axis stabilizer (Fusion 360)
 **Description:** A servo that counteracts changes detected by gyroscope and accelerometer <br>
-**More info:** [Click for more info](Stabilizer/stabilizer-info.md)
+**More info:** [Click for more info](stabilizer/stabilizer-info.md)
